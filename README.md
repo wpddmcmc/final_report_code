@@ -6,6 +6,10 @@ Mingcong Chen 27/3/2019
 
 ---
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 ##  1. Environments
 
 **Pytorch** : 1.0
@@ -43,4 +47,3 @@ Enter index to choose network:
 ```
 
 Then enter the index of network, it will start to train.
-
